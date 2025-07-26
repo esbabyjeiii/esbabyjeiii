@@ -76,7 +76,7 @@ Aquí están algunas de las tecnologías y herramientas con las que me gusta tra
 
 Aquí hay algunos de los proyectos en los que he trabajado y que me enorgullecen. Puedes hacer clic en ellos para ver los repositorios:
 
-* [**Nombre del Proyecto 1**](https://github.com/tu-usuario/nombre-proyecto-1) - Una breve descripción de lo que es el proyecto y qué problema resuelve.
+* **CSS-Tarea-entregable-1-Header-Spa-Beauty** ([https://github.com/tu-usuario/nombre-proyecto-1](https://esbabyjeiii.github.io/CSS-Tarea-entregable-1-Header-Spa-Beauty/)) -  En esta ocasión, desarrollaremos un header-hero para una página web relacionada con un negocio de tipo SPA.
 * [**Nombre del Proyecto 2**](https://github.com/tu-usuario/nombre-proyecto-2) - Una breve descripción de lo que es el proyecto y qué problema resuelve.
 * [**Nombre del Proyecto 3**](https://github.com/tu-usuario/nombre-proyecto-3) - Una breve descripción de lo que es el proyecto y qué problema resuelve.
 
