@@ -18,7 +18,9 @@
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
     <a href="tu-portfolio.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
+      <img src="I'm Jeison, a Web Developer with one year of experience in core areas of web and mobile development. I love transforming ideas into functional and engaging solutions, always looking for best practices and new tools to optimize the process.
+
+In my free time, I enjoy creating apps and SaaS, whether tech-related or not." alt="Portfolio">
     </a>
   </p>
 </div>
