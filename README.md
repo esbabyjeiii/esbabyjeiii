@@ -18,9 +18,7 @@
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
     <a href="tu-portfolio.com" target="_blank">
-      <img src="I'm Jeison, a Web Developer with one year of experience in core areas of web and mobile development. I love transforming ideas into functional and engaging solutions, always looking for best practices and new tools to optimize the process.
-
-In my free time, I enjoy creating apps and SaaS, whether tech-related or not." alt="Portfolio">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
     </a>
   </p>
 </div>
@@ -44,19 +42,19 @@ Aquí están algunas de las tecnologías y herramientas con las que me gusta tra
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  
+
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  
+
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  
+
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  
+
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode">
@@ -78,6 +76,7 @@ Aquí están algunas de las tecnologías y herramientas con las que me gusta tra
 
 Aquí hay algunos de los proyectos en los que he trabajado y que me enorgullecen. Puedes hacer clic en ellos para ver los repositorios:
 
+* [**Nombre del Proyecto 1**](https://github.com/tu-usuario/nombre-proyecto-1) - Una breve descripción de lo que es el proyecto y qué problema resuelve.
 * **CSS-Tarea-entregable-1-Header-Spa-Beauty** ([https://github.com/tu-usuario/nombre-proyecto-1](https://esbabyjeiii.github.io/CSS-Tarea-entregable-1-Header-Spa-Beauty/)) -  En esta ocasión, desarrollaremos un header-hero para una página web relacionada con un negocio de tipo SPA.
 * [**Nombre del Proyecto 2**](https://github.com/tu-usuario/nombre-proyecto-2) - Una breve descripción de lo que es el proyecto y qué problema resuelve.
 * [**Nombre del Proyecto 3**](https://github.com/tu-usuario/nombre-proyecto-3) - Una breve descripción de lo que es el proyecto y qué problema resuelve.
